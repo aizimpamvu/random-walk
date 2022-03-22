@@ -14,7 +14,6 @@ directions = [0, 90, 180, 270]
 # Using turple
 t.colormode(255)
 
-
 def random_color():
     r = random.randint(0, 255)
     g = random.randint(0, 255)
